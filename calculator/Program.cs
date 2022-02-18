@@ -17,7 +17,7 @@ namespace calculator
             Console.WriteLine("the result is {0}", result);
             result = num1 / num2;
             Console.WriteLine("the result is {0}", result);
-            result = num1 num2;
+            result = num1*num2;
             Console.WriteLine("the result is {0}", result);
 
 
